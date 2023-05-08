@@ -5,7 +5,7 @@ from pydub import AudioSegment
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 from youtube_dl import YoutubeDL
 
-TOKEN = 'masukkan_token_bot_anda_disini'
+TOKEN = '6183109899:AAELZ7XTjAQmAZGX4pmAPaxJASBvBvdN1iY'
 bot = telegram.Bot(token=TOKEN)
 
 def start(update, context):
